@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+h5 {
+    text-align: center;
+    text-decoration: none;
+    list-style: none;
+    font-family: Arial;
+    font-size: 15pt;
+    color:#FF0000;
+
+}
+
+h6 a {
+    text-align: center;
+    text-decoration: none;
+    list-style: none;
+    font-family: Arial;
+    font-size: 15pt;
+    color: #ffd324;
+
+}
+
+h  {
+    text-align: center;
+    text-decoration: none;
+    list-style: none;
+    font-family: Arial;
+    font-size: 15pt;
+    color: aqua;
+
+}
+
+
+
+
+

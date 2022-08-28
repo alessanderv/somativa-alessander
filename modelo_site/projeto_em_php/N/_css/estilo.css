@@ -1,0 +1,43 @@
+      @charset "UTF-8";
+
+      p {
+        text-align: center;
+        text-decoration: none;
+        list-style: none;
+        font-family: Arial;
+        font-size: 15pt;
+        color:rgba(209,211,205,1.0);
+
+      }
+      h1 {
+        text-align: center;
+        font-family: Arial;
+        font-size: 25pt;
+        color:rgba(209,211,205,1.0);
+      }
+      #po h4{
+          text-align: center;
+          text-decoration: none;
+          list-style: none;
+          font-family: Arial;
+          font-size: 100pt;
+          color:rgba(209,211,205,1.0);
+
+      }
+
+      .notificacao h5 {
+          text-align: center;
+          text-decoration: none;
+          list-style: none;
+          font-family: Arial;
+          font-size: 50pt;
+          color:rgba(209,211,205,1.0);
+
+      }
+
+
+
+
+
+
+

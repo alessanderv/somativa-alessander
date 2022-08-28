@@ -1,0 +1,50 @@
+      @charset "UTF-8";
+
+
+      #meuMenu{
+
+      }
+
+      #meuMenu ul{
+          margin: 0;
+          text-align: center;
+
+          list-style: none;
+          font-size: 10pt;
+
+      }
+
+      #meuMenu ul li{
+          display: inline;
+
+
+      }
+
+      #meuMenu ul li a{
+          padding: 15px 80px;
+          display: inline-block;
+          color: white;
+          text-decoration: none;
+
+      }
+
+      #meuMenu ul li a:hover{
+          color: #1A61A9;
+          background-color: rgba(209,211,205,1.0);
+
+      }
+      #meuMenu ul li h a{
+          padding: 15px 80px;
+          display: inline-block;
+          color: black;
+          text-decoration: none;
+
+      }
+
+      #meuMenu ul li a:hover{
+          color: #1A61A9;
+          background-color: rgba(209,211,205,1.0);
+
+      }
+
+

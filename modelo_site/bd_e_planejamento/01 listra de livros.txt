@@ -1,0 +1,33 @@
+01 — Lolita, Vladímir Nabókov, 1955
+02 — Enquanto Agonizo, William Faulkner, 1930
+03 — A Morte de Virgílio, Hermann Broch, 1945
+04 — Os Lusíadas, Luís de Camões, 1572
+05 — O Homem Invisível, Ralph Ellison, 1952
+06 — Hamlet, William Shakespeare, 1603
+07 — Finnegans Wake, James Joyce, 1939
+08 — Rumo ao Farol, Virginia Woolf, 1927
+            09 — Pedro Páramo, Juan Rulfo, 1955
+            10 — As Três Irmãs, Anton Tchekhov, 1901
+            11 — Pais e Filhos, de Ivan Turguêniev, 1862
+            12 — Contos da Cantuária, Geoffrey Chaucer, século 15
+            13 — As Viagens de Gulliver, Jonathan Swift, 1726
+            14 — Folhas de Relva, Walt Whitman, 1855
+            15 — Middlemarch, George Eliot, 1874
+            16 — O Apanhador no Campo de Centeio, J. D. Salinger, 1951
+            17 — O Lobo da Estepe, Herman Hesse, 1927
+            18 — O Grande Gatsby, Scott Fitzgerald, 1925
+            19 — A Peste, Albert Camus, 1947
+            20 — O Mestre e Margarida, Mikhail Bulgákov, 1940
+            21 — As Vinhas da Ira, John Steinbeck, 1939
+            22 — Memórias de Adriano, Marguerite Yourcenar, 1951
+            23 — Paralelo 42, John dos Passos, 1930
+            24 — Admirável Mundo Novo, Aldous Huxley, 1932
+            25 — O Jogo da Amarelinha, Julio Cortázar, 1963
+            26 — A Náusea, Jean-Paul Sartre, 1938
+            27 — A Invenção de Morel, Adolfo Bioy Casares, 1940
+            28 — Memorial do Convento, José Saramago, 1982
+29 — Crime e Castigo, Fiódor Dostoiévski, 1866
+30 — Orgulho e Preconceito, Jane Austen, 1813
+31 — Vale das Bonecas – Jacqueline Susann, 1966
+32 — Where the Sidewalk Ends – Shel Silverstein, 1974
+33 — Onde Vivem os Monstros – Maurice Sendak, 1963
